@@ -1,0 +1,21 @@
+﻿Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DapperDemo.Api", "DapperDemo.Api\DapperDemo.Api.csproj", "{73F8FEC1-A41F-4A19-B8BF-866138A5C022}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccess", "DataAccess\DataAccess.csproj", "{C190DFFB-768D-4384-8942-C40712A44D48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{73F8FEC1-A41F-4A19-B8BF-866138A5C022}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{73F8FEC1-A41F-4A19-B8BF-866138A5C022}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{73F8FEC1-A41F-4A19-B8BF-866138A5C022}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{73F8FEC1-A41F-4A19-B8BF-866138A5C022}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C190DFFB-768D-4384-8942-C40712A44D48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C190DFFB-768D-4384-8942-C40712A44D48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C190DFFB-768D-4384-8942-C40712A44D48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C190DFFB-768D-4384-8942-C40712A44D48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
